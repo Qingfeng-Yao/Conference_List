@@ -2,6 +2,7 @@
 ### [2019](https://conferences.computer.org/icde/2019/#!/toc/0)
 #### graph
 [Answering Why-Questions for Subgraph Queries in Multi-Attributed Graphs](https://conferences.computer.org/icde/2019/pdfs/ICDE2019-21DqmQqM7YlfcW2ZceNbB3/6qWHkV0Ich45kUlGvEjkhd/3PIkYZW57Yv3DwdZWe59Gx.pdf)
+
 [Scaling Up Subgraph Query Processing with Efficient Subgraph Matching](https://conferences.computer.org/icde/2019/pdfs/ICDE2019-21DqmQqM7YlfcW2ZceNbB3/6EP5Lb3WfWjkGrW5xHsLtv/12QKuby05pLr0s95TcDzWp.pdf)
 
 [Efficient Parallel Subgraph Enumeration on a Single Machine](https://conferences.computer.org/icde/2019/pdfs/ICDE2019-21DqmQqM7YlfcW2ZceNbB3/2zi767wJdOJxtxXEQkkPk8/6hl86DuxP3LMIabujXiJp7.pdf)
@@ -28,8 +29,7 @@
 [Fast Dual Simulation Processing of Graph Database Queries](https://conferences.computer.org/icde/2019/pdfs/ICDE2019-21DqmQqM7YlfcW2ZceNbB3/1xGf0lsMRx5oSFKAU7WjrF/3FU4lofoz0JyCr8W5t36oe.pdf)
 
 [Efficient and Incremental Clustering Algorithms on Star-Schema Heterogeneous Graphs](https://conferences.computer.org/icde/2019/pdfs/ICDE2019-21DqmQqM7YlfcW2ZceNbB3/2rkiW5zRxQddxpWmuzhJRS/45rWm4LbjPIm7xXcxa1HrW.pdf)
-1. ML
-
+#### ML
 [Enumerating Minimal Weight Set Covers](https://conferences.computer.org/icde/2019/pdfs/ICDE2019-21DqmQqM7YlfcW2ZceNbB3/7pZLGvYKZOablS6jihRHuB/12Fk8UzLnltTfiAwjOXtDJ.pdf)
 
 [Constraints-based Explanations of Classifications](https://conferences.computer.org/icde/2019/pdfs/ICDE2019-21DqmQqM7YlfcW2ZceNbB3/3dLc2CaP1tJw9Pc7JFUfB3/6pchiQ2HkW9TBT0MHpxHsy.pdf)
@@ -37,7 +37,7 @@
 [KARL: Fast Kernel Aggregation Queries](https://conferences.computer.org/icde/2019/pdfs/ICDE2019-21DqmQqM7YlfcW2ZceNbB3/1IqQ3tkfSMZfrCRGPV7PrE/7Hv1l96dpzzsEDjedtPHqh.pdf)
 
 [Assessing and Remedying Coverage for a Given Dataset](https://conferences.computer.org/icde/2019/pdfs/ICDE2019-21DqmQqM7YlfcW2ZceNbB3/6fmvV8g94OPIK7MR9MCXZH/55A3amoKibxVNEdT4AL7Dz.pdf)
-1. DM
+#### DM
 [Social Influence-Based Group Representation Learning for Group Recommendation](https://conferences.computer.org/icde/2019/pdfs/ICDE2019-21DqmQqM7YlfcW2ZceNbB3/1pUi7tSSMTMIiSRJedlyjR/75vDlOFcHSBph45nGFBGVb.pdf)
 
 [Route Recommendations on Road Networks for Arbitrary User Preference Functions](https://conferences.computer.org/icde/2019/pdfs/ICDE2019-21DqmQqM7YlfcW2ZceNbB3/QYjuSbz5gJduKiLTfnZ31/2P0AtHMUEVJfvoKaWEuelr.pdf)
