@@ -155,7 +155,19 @@
 #### graph computations
 #### knowledge graph
 #### ML
+[Deploying Machine Learning Models for Public Policy: A Framework](http://delivery.acm.org/10.1145/3220000/3219911/p15-ackermann.pdf?ip=59.64.129.48&id=3219911&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559207291_a5b75455075e11ea44eb515c2d6c3550)
+
+[Interpretable Representation Learning for Healthcare via Capturing Disease Progression through Time](http://delivery.acm.org/10.1145/3220000/3219904/p43-bai.pdf?ip=59.64.129.48&id=3219904&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559207427_7dd7cbfc5248335b65479023db4dbb99)
+
+[Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression](http://delivery.acm.org/10.1145/3220000/3219910/p196-das.pdf?ip=59.64.129.48&id=3219910&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559208241_ea9e2fac597db138d77f969dd80135f2)
 #### DM
+[Scalable !ery N-Gram Embedding for Improving Matching and Relevance in Sponsored Search](http://delivery.acm.org/10.1145/3220000/3219897/p52-bai.pdf?ip=59.64.129.48&id=3219897&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559207666_cac1f38510b3a51ffbb21a4e779d846d)
+
+[Buy It Again: Modeling Repeat Purchase Recommendations](http://delivery.acm.org/10.1145/3220000/3219891/p62-bhagat.pdf?ip=59.64.129.48&id=3219891&acc=OA&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2EFC05743B3F5EB81E&__acm__=1559207771_82642e79eb9f7e18395fc69692eb369a)
+
+[Product Characterisation towards Personalisation](http://delivery.acm.org/10.1145/3220000/3219888/p80-cardoso.pdf?ip=59.64.129.48&id=3219888&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559207882_35f899a3361f72a0bf9930bd7a45e642)
+
+[How LinkedIn Economic Graph Bonds Information and Product: Applications in LinkedIn Salary](http://delivery.acm.org/10.1145/3220000/3219921/p120-chen.pdf?ip=59.64.129.48&id=3219921&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559207977_1eb53d668fe82d559e30b59ebeef28cd)
 ## VLDB(Very Large Data Bases)
 ### [2018](http://vldb.org/pvldb/vol11.html)
 #### graph search
