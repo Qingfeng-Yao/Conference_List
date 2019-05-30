@@ -98,7 +98,61 @@
 #### DM
 ## VLDB(Very Large Data Bases)
 ### [2018](http://vldb.org/pvldb/vol11.html)
-#### graph
+#### knowledge graph
+[Query-Driven On-The-Fly Knowledge Base Construction](http://www.vldb.org/pvldb/vol11/p66-nguyen.pdf)
+
+[An Analytical Study of Large SPARQL Query Logs](http://www.vldb.org/pvldb/vol11/p149-bonifati.pdf)
+
+[Stylus: A Strongly-Typed Store for Serving Massive RDF Data](http://www.vldb.org/pvldb/vol11/p203-he.pdf)
+
+[Lusail: A System for Querying Linked Data at Scale](http://www.vldb.org/pvldb/vol11/p485-abdelaziz.pdf)
+
+[The Vadalog System: Datalog-based Reasoning for Knowledge Graphs](http://www.vldb.org/pvldb/vol11/p975-bellomarini.pdf)
+#### graph computations
+[ProbeSim: Scalable Single-Source and Top-k SimRank Computations on Dynamic Graphs](http://www.vldb.org/pvldb/vol11/p14-liu.pdf)
+
+[GRETA: Graph-based Real-time Event Trend Aggregation](http://www.vldb.org/pvldb/vol11/p80-poppe.pdf)
+
+[Parallel Personalized PageRank on Dynamic Graphs](http://www.vldb.org/pvldb/vol11/p93-guo.pdf)
+
+[Accelerating Dynamic Graph Analytics on GPUs](http://www.vldb.org/pvldb/vol11/p107-sha.pdf)
+
+[Approximately Counting Triangles in Large Graph Streams Including Edge Duplicates with a Fixed Memory Usage](http://www.vldb.org/pvldb/vol11/p162-wang.pdf)
+
+[Subgraph Matching: on Compression and Computation](http://www.vldb.org/pvldb/vol11/p176-qiao.pdf)
+
+[A Distributed Multi-GPU System for Fast Graph Processing](http://www.vldb.org/pvldb/vol11/p297-jia.pdf)
+
+[The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing](http://www.vldb.org/pvldb/vol11/p420-sahu.pdf)
+
+[Distributed Evaluation of Subgraph Queries Using Worst-case Optimal Low-Memory Dataflows](http://www.vldb.org/pvldb/vol11/p691-ammar.pdf)
+
+[Model-Free Control for Distributed Stream Data Processing using Deep Reinforcement Learning](http://www.vldb.org/pvldb/vol11/p705-li.pdf)
+
+[Indexed Fast Network Proximity Querying](http://www.vldb.org/pvldb/vol11/p840-coskun.pdf)
+#### queries
+[TOAIN: A Throughput Optimizing Adaptive Index for Answering Dynamic kNN Queries on Road Networks](http://www.vldb.org/pvldb/vol11/p594-luo.pdf)
+
+[A Formal Semantics of SQL Queries, Its Validation, and Applications](http://www.vldb.org/pvldb/vol11/p27-guagliardo.pdf)
+
+[Synthesizing Entity Matching Rules by Examples](http://www.vldb.org/pvldb/vol11/p189-singh.pdf)
+
+[Conjunctive Queries with Inequalities Under Updates](http://www.vldb.org/pvldb/vol11/p733-idris.pdf)
+
+[RC-Index: Diversifying Answers to Range Queries](http://www.vldb.org/pvldb/vol11/p773-wang.pdf)
+
+[Exact Processing of Uncertain Top-k Queries in Multi-criteria Settings](http://www.vldb.org/pvldb/vol11/p866-mouratidis.pdf)
+
+[Scalable Semantic Querying of Text](http://www.vldb.org/pvldb/vol11/p961-wang.pdf)
+
+[Improved Selectivity Estimation by Combining Knowledge from Sampling and Synopses](http://www.vldb.org/pvldb/vol11/p1016-muller.pdf)
 #### ML
+[Ease.ml: Towards Multi-tenant Resource Sharing for Machine Learning Workloads](http://www.vldb.org/pvldb/vol11/p607-li.pdf)
+
+[Scalable Training of Hierarchical Topic Models](http://www.vldb.org/pvldb/vol11/p826-chen.pdf)
+
+[Data Synthesis based on Generative Adversarial Networks](http://www.vldb.org/pvldb/vol11/p1071-park.pdf)
+
+[MLBench: Benchmarking Machine Learning Services Against Human Experts](http://www.vldb.org/pvldb/vol11/p1220-liu.pdf)
 #### DM
 
