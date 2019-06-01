@@ -151,15 +151,42 @@
 [Auto-Detect: Data-Driven Error Detection in Tables](http://delivery.acm.org/10.1145/3200000/3196889/p1377-huang.pdf?ip=59.64.129.48&id=3196889&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559206292_384ebdfca6d562417cc4316ba2aefd29)
 ## KDD(Knowledge Discovery and Data Mining)
 ### [2018](https://dblp.org/db/conf/kdd/kdd2018)
-#### graph search
-#### graph computations
-#### knowledge graph
+#### graph
+[Device Graphing by Example](http://delivery.acm.org/10.1145/3220000/3219852/p273-funkhouser.pdf?ip=59.64.129.205&id=3219852&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559376580_a2e5deb65c0444ac2b7de43b62032975)
+
+[E-tail Product Return Prediction via Hypergraph-based Local Graph Cut](http://delivery.acm.org/10.1145/3220000/3219829/p519-li.pdf?ip=59.64.129.205&id=3219829&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559376813_87ad5824a89a1b170620513ae774ac11)
+
+[How LinkedIn Economic Graph Bonds Information and Product: Applications in LinkedIn Salary](http://delivery.acm.org/10.1145/3220000/3219921/p120-chen.pdf?ip=59.64.129.48&id=3219921&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559207977_1eb53d668fe82d559e30b59ebeef28cd)
+
+[Graph Convolutional Neural Networks for Web-Scale Recommender Systems](http://delivery.acm.org/10.1145/3220000/3219890/p974-ying.pdf?ip=59.64.129.205&id=3219890&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559377141_6c7c03c256d548da12d340189eb447d9)
+
+[Approximating the Spectrum of a Graph](http://delivery.acm.org/10.1145/3230000/3220119/p1263-cohen-steiner.pdf?ip=59.64.129.205&id=3220119&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559377298_15608f5255038154967d1e62f5b5410f)
+
+[SpotLight: Detecting Anomalies in Streaming Graphs](http://delivery.acm.org/10.1145/3230000/3220040/p1378-eswaran.pdf?ip=59.64.129.205&id=3220040&acc=OA&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E6DE71D4150C19379&__acm__=1559377394_b0266f0592cceab099e281d728550722)
+
+[Large-Scale Learnable Graph Convolutional Networks](http://delivery.acm.org/10.1145/3220000/3219947/p1416-gao.pdf?ip=59.64.129.205&id=3219947&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559377514_00749229685e1fc16933bd435d01b45c)
+
+[Graph Classification using Structural Attention](http://delivery.acm.org/10.1145/3220000/3219980/p1666-lee.pdf?ip=59.64.129.205&id=3219980&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559377611_1770e052fc01a714e4dcb88d430555fe)
+
+[Interactive Paths Embedding for Semantic Proximity Search on Heterogeneous Graphs](http://delivery.acm.org/10.1145/3220000/3219953/p1860-liu.pdf?ip=59.64.129.205&id=3219953&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559377614_e0a0fb0ceb37988e133f1e981490c96f)
+
+[EvoGraph: An Effective and Efficient Graph Upscaling Method for Preserving Graph Properties](http://delivery.acm.org/10.1145/3230000/3220123/p2051-park.pdf?ip=59.64.129.205&id=3220123&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559377708_d32603b5a28822b793306e37d86291c3)
+
+[Adversarial Attacks on Neural Networks for Graph Data](http://delivery.acm.org/10.1145/3230000/3220078/p2847-zugner.pdf?ip=59.64.129.205&id=3220078&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559377773_66fb372dacba383729c95cac14dd44f9)
+
+[On Discrimination Discovery and Removal in Ranked Data using Causal Graph](http://delivery.acm.org/10.1145/3230000/3220087/p2536-wu.pdf?ip=59.64.129.205&id=3220087&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559377884_6b7a5a1d13fe156420e385b3e5ea3db9)
+
+[NetLSD: Hearing the Shape of a Graph](http://delivery.acm.org/10.1145/3220000/3219991/p2347-tsitsulin.pdf?ip=59.64.129.205&id=3219991&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559377955_62d0d9cf30ca30673468c5e0f91e86b0)
 #### ML
 [Deploying Machine Learning Models for Public Policy: A Framework](http://delivery.acm.org/10.1145/3220000/3219911/p15-ackermann.pdf?ip=59.64.129.48&id=3219911&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559207291_a5b75455075e11ea44eb515c2d6c3550)
 
 [Interpretable Representation Learning for Healthcare via Capturing Disease Progression through Time](http://delivery.acm.org/10.1145/3220000/3219904/p43-bai.pdf?ip=59.64.129.48&id=3219904&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559207427_7dd7cbfc5248335b65479023db4dbb99)
 
 [Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression](http://delivery.acm.org/10.1145/3220000/3219910/p196-das.pdf?ip=59.64.129.48&id=3219910&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559208241_ea9e2fac597db138d77f969dd80135f2)
+
+[Tax Fraud Detection for Under-Reporting Declarations Using an Unsupervised Machine Learning Approach](http://delivery.acm.org/10.1145/3220000/3219878/p215-de-roux.pdf?ip=59.64.129.205&id=3219878&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559375994_bf643ec5e252a7b5a5f5e0e6c5fd51d7)
+
+[Towards Knowledge Discovery from the Vatican Secret Archives. In Codice Ratio – Episode 1: Machine Transcription of the Manuscripts.](http://delivery.acm.org/10.1145/3220000/3219879/p263-firmani.pdf?ip=59.64.129.205&id=3219879&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559376391_f3bf47cf49ca4569a3cacdd0ce55521f)
 #### DM
 [Scalable !ery N-Gram Embedding for Improving Matching and Relevance in Sponsored Search](http://delivery.acm.org/10.1145/3220000/3219897/p52-bai.pdf?ip=59.64.129.48&id=3219897&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559207666_cac1f38510b3a51ffbb21a4e779d846d)
 
@@ -167,7 +194,7 @@
 
 [Product Characterisation towards Personalisation](http://delivery.acm.org/10.1145/3220000/3219888/p80-cardoso.pdf?ip=59.64.129.48&id=3219888&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559207882_35f899a3361f72a0bf9930bd7a45e642)
 
-[How LinkedIn Economic Graph Bonds Information and Product: Applications in LinkedIn Salary](http://delivery.acm.org/10.1145/3220000/3219921/p120-chen.pdf?ip=59.64.129.48&id=3219921&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559207977_1eb53d668fe82d559e30b59ebeef28cd)
+[Gotcha - Sly Malware! Scorpion: A Metagraph2vec Based Malware Detection System](http://delivery.acm.org/10.1145/3220000/3219862/p253-fan.pdf?ip=59.64.129.205&id=3219862&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559376177_059df0af34ace2372b1308eabc0ba953)
 ## VLDB(Very Large Data Bases)
 ### [2018](http://vldb.org/pvldb/vol11.html)
 #### graph search
