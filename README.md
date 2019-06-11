@@ -277,3 +277,29 @@
 [Durable Top-k Queries on Temporal Data](http://www.vldb.org/pvldb/vol11/p2223-gao.pdf)
 
 [Interactive Summarization and Exploration of Top Aggregate Query Answers](http://www.vldb.org/pvldb/vol11/p2196-wen.pdf)
+
+## KDD
+### [2019](https://www.kdd.org/kdd2019/accepted-papers)
+A Representation Learning Framework for Property Graphs
+
+NodeSketch: Highly-Efficient Graph Embeddings via Recursive Sketching
+
+Scalable Graph Embeddings via Sparse Transpose Proximities
+
+Graph Recurrent Networks with Attributed Random Walks
+
+Graphy: A High Performance CPU-GPU Hybrid System for Node Embedding
+
+Constrained Local Graph Clustering by Colored Random Walk
+
+A Graph is Worth a Thousand Words: Telling Event Stories using Timeline Summarization Graphs
+
+Sampled in Pairs and Driven by Text: A New Graph Embedding Framework
+
+## WWW
+### [2019](https://www2019.thewebconf.org/accepted-papers)
+Community detection through likelihood optimization: in search of a sound model
+
+Nonlinear diffusions for community detection and semi-supervised learning
+
+CommunityGAN: Community Detection with Generative Adversarial Nets
