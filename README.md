@@ -39,5 +39,5 @@ Sampled in Pairs and Driven by Text: A New Graph Embedding Framework
 
 [EvoGraph: An Effective and Efficient Graph Upscaling Method for Preserving Graph Properties](http://delivery.acm.org/10.1145/3230000/3220123/p2051-park.pdf?ip=59.64.129.205&id=3220123&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559377708_d32603b5a28822b793306e37d86291c3)
 
-## WWW
+## WWW(International World Wide Web Conference)
 ### [2019](https://www2019.thewebconf.org/accepted-papers)
