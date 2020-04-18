@@ -8,6 +8,14 @@ Diverse Trajectory Forecasting with Determinantal Point Processes
 
 Deep Learning of Determinantal Point Processes via Proper Spectral Sub-gradient
 
+On Mutual Information Maximization for Representation Learning
+
+Theory and Evaluation Metrics for Learning Disentangled Representations
+
+Learning Disentangled Representations for CounterFactual Regression
+
+What graph neural networks cannot learn: depth vs width
+
 ## ICDE(International Conference on Data Engineering)
 ### [2019](https://conferences.computer.org/icde/2019/#!/toc/0)
 Exploiting Centrality Information with Graph Convolutions for Network Representation Learning
