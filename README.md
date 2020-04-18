@@ -16,6 +16,10 @@ Learning Disentangled Representations for CounterFactual Regression
 
 What graph neural networks cannot learn: depth vs width
 
+Few-Shot Text Classification with Distributional Signatures
+
+Adaptive Structural Fingerprints for Graph Attention Networks
+
 ## ICDE(International Conference on Data Engineering)
 ### [2019](https://conferences.computer.org/icde/2019/#!/toc/0)
 Exploiting Centrality Information with Graph Convolutions for Network Representation Learning
