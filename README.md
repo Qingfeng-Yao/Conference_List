@@ -36,6 +36,10 @@ Attention Guided Graph Convolutional Networks for Relation Extraction
 
 Towards Explainable NLP: A Generative Explanation Framework for Text Classification
 
+Boosting Entity Linking Performance by Leveraging Unlabeled Documents
+
+Self-Attentive, Multi-Context One-Class Classification for Unsupervised Anomaly Detection on Text
+
 ## KDD(Knowledge Discovery and Data Mining)
 ### [2019](https://www.kdd.org/kdd2019/accepted-papers)
 A Representation Learning Framework for Property Graphs
@@ -75,6 +79,14 @@ Graph Classification using Structural Attention
 
 EvoGraph: An Effective and Efficient Graph Upscaling Method for Preserving Graph Properties
 
+## WWW(International World Wide Web Conference)
+### 2020
+A new distance geometry method for constructing word and sentence vectors
+
+Graph Embedding with Personalized Context Distribution
+
+### [2019](https://www2019.thewebconf.org/accepted-papers)
+
 ## ICDE(International Conference on Data Engineering)
 ### [2019](https://conferences.computer.org/icde/2019/#!/toc/0)
 Exploiting Centrality Information with Graph Convolutions for Network Representation Learning
@@ -87,5 +99,4 @@ A General and Efficient Querying Method for Learning to Hash
 ### [2018](http://vldb.org/pvldb/vol11.html)
 Scalable Training of Hierarchical Topic Models
 
-## WWW(International World Wide Web Conference)
-### [2019](https://www2019.thewebconf.org/accepted-papers)
+
