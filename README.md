@@ -40,6 +40,60 @@ Boosting Entity Linking Performance by Leveraging Unlabeled Documents
 
 Self-Attentive, Multi-Context One-Class Classification for Unsupervised Anomaly Detection on Text
 
+Generating Logical Forms from Graph Representations of Text and Entities
+
+Text Categorization by Learning Predominant Sense of Words as Auxiliary Task
+
+Variational Pretraining for Semi-supervised Text Classification
+
+Incorporating Priors with Feature Attribution on Text Classification
+
+Word2Sense: Sparse Interpretable Word Embeddings
+
+Automatically Identifying Complaints in Social Media
+
+Matching Article Pairs with Graphical Decomposition and Convolutions
+
+Graph-based Dependency Parsing with Graph Neural Networks
+
+Encoding Social Information with Graph Convolutional Networks forPolitical Perspective Detection in News Media
+
+Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings
+
+A Lightweight Recurrent Network for Sequence Modeling
+
+Better Exploiting Latent Variables in Text Modeling
+
+Hierarchical Transfer Learning for Multi-label Text Classification
+
+CNNs found to jump around more skillfully than RNNs: Compositional generalization in seq2seq convolutional networks
+
+Fine-Grained Spoiler Detection from Large-Scale Review Corpora
+
+Large-Scale Multi-Label Text Classification on EU Legislation
+
+What does BERT learn about the structure of language?
+
+Graph based Neural Networks for Event Factuality Prediction using Syntactic and Semantic Structures
+
+Rumor Detection By Exploiting User Credibility Information, Attention and Multi-task Learning
+
+Exploring Numeracy in Word Embeddings
+
+NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit
+
+BREAKING! Presenting fake news corpus for automated fact checking
+
+Fact or Factitious? Contextualized Opinion Spam Detection
+
+Hierarchical Multi-label Classification of Text with Capsule Networks
+
+Multiple Character Embeddings for Chinese Word Segmentation
+
+On Dimensional Linguistic Properties of the Word Embedding Space
+
+Sentiment Classification using Document Embeddings trained with Cosine Similarity
+
 ## KDD(Knowledge Discovery and Data Mining)
 ### [2019](https://www.kdd.org/kdd2019/accepted-papers)
 A Representation Learning Framework for Property Graphs
