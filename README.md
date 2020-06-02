@@ -139,7 +139,6 @@ A new distance geometry method for constructing word and sentence vectors
 
 Graph Embedding with Personalized Context Distribution
 
-### [2019](https://www2019.thewebconf.org/accepted-papers)
 
 ## ICDE(International Conference on Data Engineering)
 ### [2019](https://conferences.computer.org/icde/2019/#!/toc/0)
