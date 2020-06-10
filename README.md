@@ -1,3 +1,15 @@
+## IJCAI(International Joint Conferences on Artificial Intelligence)
+### [2020](http://static.ijcai.org/2020-accepted_papers.html)
+Inductive Link Prediction for Nodes Having Only Attribute Information
+
+Motif-Preserving Temporal Network Embedding
+
+When Do GNNs Work: Understanding and Improving Neighborhood Aggregation
+
+Dataless Short Text Classification Based on Biterm Topic Model and Word Embeddings
+
+Hype-HAN: Hyperbolic Hierarchical Attention Network for Semantic Embedding
+
 ## ICLR(International Conference on Learning Representations)
 ### [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference#all-submissions)
 The Logical Expressiveness of Graph Neural Networks
@@ -21,6 +33,25 @@ Few-Shot Text Classification with Distributional Signatures
 Adaptive Structural Fingerprints for Graph Attention Networks
 
 ## ACL(Annual Conference of the Association for Computational Linguistics)
+### [2020](https://acl2020.org/program/accepted/)
+Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis
+
+Automatic Detection of Generated Text is Easiest when Humans are Fooled
+
+Contextualized Weak Supervision for Text Classification
+
+Feature Projection for Improved Text Classification
+
+GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media
+
+HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding
+
+Hyperbolic Capsule Networks for Multi-Label Classification
+
+Low-Dimensional Hyperbolic Knowledge Graph Embeddings
+
+Understanding Attention for Text Classification
+
 ### [2019](http://www.acl2019.org/EN/program/papers.xhtml)
 Towards Unsupervised Text Classification Leveraging Experts and Word Embeddings
 
@@ -139,6 +170,11 @@ A new distance geometry method for constructing word and sentence vectors
 
 Graph Embedding with Personalized Context Distribution
 
+## ELLIS Workshop on Geometric and Relational Deep Learning
+### [2020](https://geometric-relational-dl.github.io/)
+Graph Convolutional Gaussian Processes For Link Prediction [paper](https://arxiv.org/pdf/2002.04337.pdf)
+
+Are Graph Convolutional Networks Fully Exploiting Graph Structure? [video](https://www.youtube.com/watch?v=r54x1282TyI&feature=youtu.be)
 
 ## ICDE(International Conference on Data Engineering)
 ### [2019](https://conferences.computer.org/icde/2019/#!/toc/0)
@@ -151,5 +187,9 @@ A General and Efficient Querying Method for Learning to Hash
 ## VLDB(Very Large Data Bases)
 ### [2018](http://vldb.org/pvldb/vol11.html)
 Scalable Training of Hierarchical Topic Models
+
+## 其他
+### 2020
+GRAPH-BERT : Only Attention is Needed for Learning Graph Representations
 
 
