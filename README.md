@@ -52,6 +52,22 @@ Low-Dimensional Hyperbolic Knowledge Graph Embeddings
 
 Understanding Attention for Text Classification
 
+Zero-shot Text Classification via Reinforced Self-training
+
+Dynamic Memory Induction Networks for Few-Shot Text Classification
+
+Efficient strategies for hierarchical text classification: external knowledge and auxiliary tasks
+
+GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples
+
+Text Classification with Negative Supervision
+
+Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks
+
+Embarrassingly Simple Unsupervised Aspect Extraction
+
+Crossing Variational Autoencoders for Answer Retrieval
+
 ### [2019](http://www.acl2019.org/EN/program/papers.xhtml)
 Towards Unsupervised Text Classification Leveraging Experts and Word Embeddings
 
