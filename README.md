@@ -17,6 +17,8 @@
 
 ### AAAI(Association for the Advancement of Artificial Intelligence)
 
+### NIPS(Conference on Neural Information Processing Systems)
+
 ### WWW(International World Wide Web Conference)
 
 ### ICDE(International Conference on Data Engineering)
