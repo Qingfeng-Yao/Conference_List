@@ -29,8 +29,6 @@
 - [2018](http://vldb.org/pvldb/vol11.html)
 
 ## Tutorials
-### 2020
-- CVPR [Deep Learning on Graphs in Natural Language Processing and Computer Vision](https://sites.google.com/a/email.wm.edu/teddy-lfwu/publications)
 
 ## Authors
 - [Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/home)
