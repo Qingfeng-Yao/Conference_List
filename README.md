@@ -1,211 +1,35 @@
-## IJCAI(International Joint Conferences on Artificial Intelligence)
-### [2020](http://static.ijcai.org/2020-accepted_papers.html)
-Inductive Link Prediction for Nodes Having Only Attribute Information
+## Papers
+### ACL(Annual Conference of the Association for Computational Linguistics)
+- [2020](https://acl2020.org/program/accepted/)
+- [2019](http://www.acl2019.org/EN/program/papers.xhtml)
 
-Motif-Preserving Temporal Network Embedding
+### EMNLP(Conference on Empirical Methods in Natural Language Processing)
 
-When Do GNNs Work: Understanding and Improving Neighborhood Aggregation
+### IJCAI(International Joint Conferences on Artificial Intelligence)
+- [2020](http://static.ijcai.org/2020-accepted_papers.html)
 
-Dataless Short Text Classification Based on Biterm Topic Model and Word Embeddings
+### ICLR(International Conference on Learning Representations)
+- [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference#all-submissions)
 
-Hype-HAN: Hyperbolic Hierarchical Attention Network for Semantic Embedding
+### KDD(Knowledge Discovery and Data Mining)
+- [2019](https://www.kdd.org/kdd2019/accepted-papers)
+- [2018](https://dblp.org/db/conf/kdd/kdd2018)
 
-## ICLR(International Conference on Learning Representations)
-### [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference#all-submissions)
-The Logical Expressiveness of Graph Neural Networks
+### AAAI(Association for the Advancement of Artificial Intelligence)
 
-Graph inference learning for semi-supervised classification
+### WWW(International World Wide Web Conference)
 
-Diverse Trajectory Forecasting with Determinantal Point Processes
+### ICDE(International Conference on Data Engineering)
+- [2019](https://conferences.computer.org/icde/2019/#!/toc/0)
 
-Deep Learning of Determinantal Point Processes via Proper Spectral Sub-gradient
+### SIGMOD(Management of Data)
+- [2018](https://dblp.org/db/conf/sigmod/sigmod2018)
 
-On Mutual Information Maximization for Representation Learning
+### VLDB(Very Large Data Bases)
+- [2018](http://vldb.org/pvldb/vol11.html)
 
-Theory and Evaluation Metrics for Learning Disentangled Representations
-
-Learning Disentangled Representations for CounterFactual Regression
-
-What graph neural networks cannot learn: depth vs width
-
-Few-Shot Text Classification with Distributional Signatures
-
-Adaptive Structural Fingerprints for Graph Attention Networks
-
-## ACL(Annual Conference of the Association for Computational Linguistics)
-### [2020](https://acl2020.org/program/accepted/)
-Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis
-
-Automatic Detection of Generated Text is Easiest when Humans are Fooled
-
-Contextualized Weak Supervision for Text Classification
-
-Feature Projection for Improved Text Classification
-
-GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media
-
-HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding
-
-Hyperbolic Capsule Networks for Multi-Label Classification
-
-Low-Dimensional Hyperbolic Knowledge Graph Embeddings
-
-Understanding Attention for Text Classification
-
-Zero-shot Text Classification via Reinforced Self-training
-
-Dynamic Memory Induction Networks for Few-Shot Text Classification
-
-Efficient strategies for hierarchical text classification: external knowledge and auxiliary tasks
-
-GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples
-
-Text Classification with Negative Supervision
-
-Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks
-
-Embarrassingly Simple Unsupervised Aspect Extraction
-
-Crossing Variational Autoencoders for Answer Retrieval
-
-### [2019](http://www.acl2019.org/EN/program/papers.xhtml)
-Towards Unsupervised Text Classification Leveraging Experts and Word Embeddings
-
-Bayes Test of Precision, Recall, and F1 Measure for Comparison of Two Natural Language Processing Models
-
-Stochastic Tokenization with a Language Model for Neural Text Classification
-
-Distilling Discrimination and Generalization Knowledge for Event Detection via ∆-Representation Learning
-
-Joint Type Inference on Entities and Relations via Graph Convolutional Networks
-
-Attention Guided Graph Convolutional Networks for Relation Extraction
-
-Towards Explainable NLP: A Generative Explanation Framework for Text Classification
-
-Boosting Entity Linking Performance by Leveraging Unlabeled Documents
-
-Self-Attentive, Multi-Context One-Class Classification for Unsupervised Anomaly Detection on Text
-
-Generating Logical Forms from Graph Representations of Text and Entities
-
-Text Categorization by Learning Predominant Sense of Words as Auxiliary Task
-
-Variational Pretraining for Semi-supervised Text Classification
-
-Incorporating Priors with Feature Attribution on Text Classification
-
-Word2Sense: Sparse Interpretable Word Embeddings
-
-Automatically Identifying Complaints in Social Media
-
-Matching Article Pairs with Graphical Decomposition and Convolutions
-
-Graph-based Dependency Parsing with Graph Neural Networks
-
-Encoding Social Information with Graph Convolutional Networks forPolitical Perspective Detection in News Media
-
-Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings
-
-A Lightweight Recurrent Network for Sequence Modeling
-
-Better Exploiting Latent Variables in Text Modeling
-
-Hierarchical Transfer Learning for Multi-label Text Classification
-
-CNNs found to jump around more skillfully than RNNs: Compositional generalization in seq2seq convolutional networks
-
-Fine-Grained Spoiler Detection from Large-Scale Review Corpora
-
-Large-Scale Multi-Label Text Classification on EU Legislation
-
-What does BERT learn about the structure of language?
-
-Graph based Neural Networks for Event Factuality Prediction using Syntactic and Semantic Structures
-
-Rumor Detection By Exploiting User Credibility Information, Attention and Multi-task Learning
-
-Exploring Numeracy in Word Embeddings
-
-NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit
-
-BREAKING! Presenting fake news corpus for automated fact checking
-
-Fact or Factitious? Contextualized Opinion Spam Detection
-
-Hierarchical Multi-label Classification of Text with Capsule Networks
-
-Multiple Character Embeddings for Chinese Word Segmentation
-
-On Dimensional Linguistic Properties of the Word Embedding Space
-
-Sentiment Classification using Document Embeddings trained with Cosine Similarity
-
-## KDD(Knowledge Discovery and Data Mining)
-### [2019](https://www.kdd.org/kdd2019/accepted-papers)
-A Representation Learning Framework for Property Graphs
-
-NodeSketch: Highly-Efficient Graph Embeddings via Recursive Sketching
-
-Scalable Graph Embeddings via Sparse Transpose Proximities
-
-Graph Recurrent Networks with Attributed Random Walks
-
-Graphy: A High Performance CPU-GPU Hybrid System for Node Embedding
-
-Constrained Local Graph Clustering by Colored Random Walk
-
-A free energy based approach for distance metric learning
-
-Certifiable Robustness and Robust Training for Graph Convolutional Networks
-
-Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks
-
-Deep Mixture Point Processes: Spatio-temporal Event Prediction with Rich Contextual Information
-
-DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks
-
-Dynamic Modeling and Forecasting of Time-evolving Data Streams
-
-Graph Convolutional Networks with EigenPooling
-
-Pairwise Comparisons with Flexible Time-Dynamics
-
-### [2018](https://dblp.org/db/conf/kdd/kdd2018)
-Approximating the Spectrum of a Graph
-
-Large-Scale Learnable Graph Convolutional Networks
-
-Graph Classification using Structural Attention
-
-EvoGraph: An Effective and Efficient Graph Upscaling Method for Preserving Graph Properties
-
-## WWW(International World Wide Web Conference)
+## Tutorials
 ### 2020
-A new distance geometry method for constructing word and sentence vectors
-
-Graph Embedding with Personalized Context Distribution
-
-## ELLIS Workshop on Geometric and Relational Deep Learning
-### [2020](https://geometric-relational-dl.github.io/)
-Graph Convolutional Gaussian Processes For Link Prediction [paper](https://arxiv.org/pdf/2002.04337.pdf)
-
-Are Graph Convolutional Networks Fully Exploiting Graph Structure? [video](https://www.youtube.com/watch?v=r54x1282TyI&feature=youtu.be)
-
-## ICDE(International Conference on Data Engineering)
-### [2019](https://conferences.computer.org/icde/2019/#!/toc/0)
-Exploiting Centrality Information with Graph Convolutions for Network Representation Learning
-
-## SIGMOD(Management of Data)
-### [2018](https://dblp.org/db/conf/sigmod/sigmod2018)
-A General and Efficient Querying Method for Learning to Hash
-
-## VLDB(Very Large Data Bases)
-### [2018](http://vldb.org/pvldb/vol11.html)
-Scalable Training of Hierarchical Topic Models
-
-## 其他
-### 2020
-GRAPH-BERT : Only Attention is Needed for Learning Graph Representations
+- CVPR [Deep Learning on Graphs in Natural Language Processing and Computer Vision](https://sites.google.com/a/email.wm.edu/teddy-lfwu/publications)
 
 
