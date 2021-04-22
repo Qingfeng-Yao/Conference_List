@@ -31,5 +31,7 @@
 
 ## Authors
 - [Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/home)
+- [Yuxiao Dong](https://ericdongyx.github.io/)
+- [William L. Hamilton](https://williamleif.github.io/)
 
 
