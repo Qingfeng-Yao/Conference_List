@@ -56,7 +56,7 @@
 - [2020](https://www.kdd.org/kdd2020/tutorials/lecture-tutorials)
 
 ### WWW
-- [2021](https://www2021.thewebconf.org/program/workshops-tutorials-april-12-16/)
+- [2021](https://www2021.thewebconf.org/program/tutorials/)
 
 ## Authors
 - [Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/home)
