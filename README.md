@@ -30,6 +30,8 @@
 ### WSDM(Web Search and Data Mining)
 - [2020](http://www.wsdm-conference.org/2020/accepted-papers.php)
 
+### CIKM(Conference on Information and Knowledge Management)
+
 ### SIGIR(Special Interest Group on Information Retrieval)
 - [2021](https://sigir.org/sigir2021/accepted-papers/)
 
