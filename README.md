@@ -30,6 +30,7 @@
 
 ### SIGIR(Special Interest Group on Information Retrieval)
 - [2021](https://sigir.org/sigir2021/accepted-papers/)
+- [2020](https://sigir.org/sigir2020/accepted-papers/)
 
 ### ICLR(International Conference on Learning Representations)
 - [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference#all-submissions)
@@ -81,6 +82,10 @@
 
 ### WSDM
 - [2020](http://www.wsdm-conference.org/2020/tutorials.php)
+
+### SIGIR
+- [2021](https://sigir.org/sigir2021/tutorials/)
+- [2020](https://sigir.org/sigir2020/tutorials/)
 
 ## Authors
 - [Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/home)
