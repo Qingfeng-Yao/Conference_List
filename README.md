@@ -60,6 +60,7 @@
 - [2021](https://aaai.org/Conferences/AAAI-21/aaai21tutorials/)
 
 ### KDD
+- [2021](https://kdd.org/kdd2021/tutorials)
 - [2020](https://www.kdd.org/kdd2020/tutorials/lecture-tutorials)
 
 ### WWW
