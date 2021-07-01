@@ -6,6 +6,8 @@
 - [2020](https://2020.emnlp.org/papers/main)
 - [2019](https://www.aclweb.org/anthology/events/emnlp-2019/#d19-1)
 
+### RecSys(Conference Series on Recommender Systems) 
+
 ### AAAI(Association for the Advancement of Artificial Intelligence)
 - [2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/01/AAAI-21.Poster.Session.Schedule.pdf)
 
@@ -55,6 +57,11 @@
 ### EMNLP
 - [2020](https://2020.emnlp.org/tutorials)
 - [2019](https://www.aclweb.org/anthology/events/emnlp-2019/#d19-2)
+
+### RecSys
+- [2021](https://recsys.acm.org/recsys21/tutorials/)
+- [2020](https://recsys.acm.org/recsys20/tutorials/)
+- [2019](https://recsys.acm.org/recsys19/tutorials/)
 
 ### AAAI
 - [2021](https://aaai.org/Conferences/AAAI-21/aaai21tutorials/)
