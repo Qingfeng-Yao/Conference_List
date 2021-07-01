@@ -10,6 +10,7 @@
 - [2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/01/AAAI-21.Poster.Session.Schedule.pdf)
 
 ### KDD(Knowledge Discovery and Data Mining)
+- [2021](https://kdd.org/kdd2021/accepted-papers/index)
 - [2020](https://www.kdd.org/kdd2020/files/KDD_2020_Technical_Program.pdf)
 - [2018](https://dblp.org/db/conf/kdd/kdd2018)
 
