@@ -20,7 +20,16 @@
 - [2021](https://www2021.thewebconf.org/program/papers-program/)
 
 ### IJCAI(International Joint Conferences on Artificial Intelligence)
+- [2021](https://ijcai-21.org/program-main-track/)
 - [2020](http://static.ijcai.org/2020-accepted_papers.html)
+
+### WSDM(Web Search and Data Mining)
+- [2020](http://www.wsdm-conference.org/2020/accepted-papers.php)
+
+### CIKM(Conference on Information and Knowledge Management)
+
+### SIGIR(Special Interest Group on Information Retrieval)
+- [2021](https://sigir.org/sigir2021/accepted-papers/)
 
 ### ICLR(International Conference on Learning Representations)
 - [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference#all-submissions)
@@ -30,14 +39,6 @@
 ### ICML(International Conference on Machine Learning)
 - [2021](https://icml.cc/Conferences/2021/AcceptedPapersInitial)
 - [2020](http://proceedings.mlr.press/v119/)
-
-### WSDM(Web Search and Data Mining)
-- [2020](http://www.wsdm-conference.org/2020/accepted-papers.php)
-
-### CIKM(Conference on Information and Knowledge Management)
-
-### SIGIR(Special Interest Group on Information Retrieval)
-- [2021](https://sigir.org/sigir2021/accepted-papers/)
 
 ### ICDE(International Conference on Data Engineering)
 - [2021](https://icde2021.gr/accepted-papers/)
@@ -74,6 +75,12 @@
 ### WWW
 - [2021](https://www2021.thewebconf.org/program/tutorials/)
 - [2020](https://www2020.thewebconf.org/program#tutorials)
+
+### IJCAI
+- [2020](https://ijcai20.org/tutorials/)
+
+### WSDM
+- [2020](http://www.wsdm-conference.org/2020/tutorials.php)
 
 ## Authors
 - [Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/home)
