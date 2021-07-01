@@ -32,6 +32,9 @@
 - [2021](https://sigir.org/sigir2021/accepted-papers/)
 - [2020](https://sigir.org/sigir2020/accepted-papers/)
 
+### ICDE(International Conference on Data Engineering)
+- [2021](https://icde2021.gr/accepted-papers/)
+
 ### ICLR(International Conference on Learning Representations)
 - [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference#all-submissions)
 
@@ -40,9 +43,6 @@
 ### ICML(International Conference on Machine Learning)
 - [2021](https://icml.cc/Conferences/2021/AcceptedPapersInitial)
 - [2020](http://proceedings.mlr.press/v119/)
-
-### ICDE(International Conference on Data Engineering)
-- [2021](https://icde2021.gr/accepted-papers/)
 
 ### SIGMOD(Management of Data)
 - [2019](http://sigmod2019.org/sigmod_research_papers_list)
@@ -86,6 +86,9 @@
 ### SIGIR
 - [2021](https://sigir.org/sigir2021/tutorials/)
 - [2020](https://sigir.org/sigir2020/tutorials/)
+
+### ICDE
+- [2020](https://icde.utdallas.edu/tutorial-2.html)
 
 ## Authors
 - [Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/home)
