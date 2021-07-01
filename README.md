@@ -58,6 +58,7 @@
 
 ### AAAI
 - [2021](https://aaai.org/Conferences/AAAI-21/aaai21tutorials/)
+- [2020](https://aaai.org/Conferences/AAAI-20/aaai20tutorials/)
 
 ### KDD
 - [2021](https://kdd.org/kdd2021/tutorials)
