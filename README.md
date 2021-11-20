@@ -1,8 +1,10 @@
 ## Papers
 ### ACL(Annual Conference of the Association for Computational Linguistics)
+- [2021](https://2021.aclweb.org/program/accept/)
 - [2020](https://acl2020.org/program/accepted/)
 
 ### EMNLP(Conference on Empirical Methods in Natural Language Processing)
+- [2021](https://2021.emnlp.org/papers)
 - [2020](https://2020.emnlp.org/papers/main)
 - [2019](https://www.aclweb.org/anthology/events/emnlp-2019/#d19-1)
 
@@ -10,6 +12,7 @@
 
 ### AAAI(Association for the Advancement of Artificial Intelligence)
 - [2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/01/AAAI-21.Poster.Session.Schedule.pdf)
+- [2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
 
 ### KDD(Knowledge Discovery and Data Mining)
 - [2021](https://kdd.org/kdd2021/accepted-papers/index)
