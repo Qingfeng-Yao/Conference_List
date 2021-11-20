@@ -2,6 +2,7 @@
 ### ACL(Annual Conference of the Association for Computational Linguistics)
 - [2021](https://2021.aclweb.org/program/accept/)
 - [2020](https://acl2020.org/program/accepted/)
+- [2019](https://dblp.org/db/conf/acl/acl2019-1.html)
 
 ### EMNLP(Conference on Empirical Methods in Natural Language Processing)
 - [2021](https://2021.emnlp.org/papers)
@@ -13,18 +14,23 @@
 ### AAAI(Association for the Advancement of Artificial Intelligence)
 - [2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/01/AAAI-21.Poster.Session.Schedule.pdf)
 - [2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
+- [2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
 
 ### KDD(Knowledge Discovery and Data Mining)
 - [2021](https://kdd.org/kdd2021/accepted-papers/index)
 - [2020](https://www.kdd.org/kdd2020/files/KDD_2020_Technical_Program.pdf)
+- [2019](https://dblp.org/db/conf/kdd/kdd2019.html)
 - [2018](https://dblp.org/db/conf/kdd/kdd2018)
 
 ### WWW(International World Wide Web Conference)
 - [2021](https://www2021.thewebconf.org/program/papers-program/)
+- [2020](https://dblp.org/db/conf/www/www2020.html)
+- [2019](https://dblp.org/db/conf/www/www2019.html)
 
 ### IJCAI(International Joint Conferences on Artificial Intelligence)
 - [2021](https://ijcai-21.org/program-main-track/)
 - [2020](http://static.ijcai.org/2020-accepted_papers.html)
+- [2019](https://www.ijcai19.org/accepted-papers.html)
 
 ### WSDM(Web Search and Data Mining)
 - [2020](http://www.wsdm-conference.org/2020/accepted-papers.php)
@@ -34,6 +40,7 @@
 ### SIGIR(Special Interest Group on Information Retrieval)
 - [2021](https://sigir.org/sigir2021/accepted-papers/)
 - [2020](https://sigir.org/sigir2020/accepted-papers/)
+- [2019](https://sigir.org/sigir2019/program/accepted/)
 
 ### ICDE(International Conference on Data Engineering)
 - [2021](https://icde2021.gr/accepted-papers/)
